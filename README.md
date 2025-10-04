@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/space_dog_banner_tagged.png" alt="MasterHead" width="100%" style="max-width: 8000px;">
+<img src="./assets/banner_test.png" alt="MasterHead" width="100%" style="max-width: 8000px;">
 </div>
 
 <p>
