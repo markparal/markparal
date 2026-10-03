@@ -1,7 +1,7 @@
 # Hi, I'm Mark 🛰️
 
-Aeronautical and astronautical engineer working on **GNC and systems design for satellites**.
-BS from Purdue, MS from Stanford. Tripoli **L2** certified high-power rocketeer.
+Aeronautical and astronautical engineer working on GNC and systems design for satellites.
+BS from Purdue, MS from Stanford. Tripoli L2 certified high-power rocketeer.
 
 🌐 [markparal.com](https://markparal.com): projects, publications, and resume
 
